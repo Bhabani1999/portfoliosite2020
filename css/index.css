@@ -2409,7 +2409,9 @@ html.w-mod-js *[data-ix="new-interaction"] {
     line-height: 36px;
   }
   .paragraph-15.rt {
+    max-width: 250px;
     line-height: 24px;
+    white-space: normal;
   }
   .image-8 {
     display: none;
@@ -2446,15 +2448,19 @@ html.w-mod-js *[data-ix="new-interaction"] {
     font-size: 24px;
   }
   .paragraph-17 {
-    padding-top: 14px;
+    padding-top: 8px;
     padding-bottom: 14px;
     font-size: 12px;
   }
-  .paragraph-18 {
+  .paragraph-17.df {
     padding-top: 8px;
+    line-height: 140%;
+  }
+  .paragraph-18 {
+    padding-top: 16px;
     padding-bottom: 8px;
     font-size: 16px;
-    line-height: 20px;
+    line-height: 18px;
   }
   .image-9 {
     display: none;
@@ -2532,6 +2538,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
   }
   .menu-button {
     padding-top: 12px;
+    padding-right: 0px;
     padding-bottom: 12px;
   }
   .menu-button.w--open {
@@ -2669,6 +2676,12 @@ html.w-mod-js *[data-ix="new-interaction"] {
   }
   .div-block-76 {
     display: none;
+  }
+  .image-23 {
+    display: none;
+  }
+  .brand {
+    padding-left: 0px;
   }
 }
 
