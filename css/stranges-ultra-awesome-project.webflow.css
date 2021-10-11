@@ -687,11 +687,16 @@ a {
 
 .div-block-13._1 {
   display: block;
+  background-image: url('../images/False.png');
+  background-position: 50% 50%;
+  background-size: contain;
 }
 
 .div-block-13._2 {
   display: block;
   background-image: url('../images/Wikipedia-Thumbnail.png');
+  background-position: 50% 50%;
+  background-size: contain;
 }
 
 .div-block-13._3 {
@@ -704,6 +709,8 @@ a {
 .div-block-13._4 {
   display: block;
   background-image: url('../images/Google-Classbook.png');
+  background-position: 50% 50%;
+  background-size: contain;
 }
 
 .image-5 {
